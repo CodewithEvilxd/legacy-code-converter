@@ -1,0 +1,2 @@
+pnpm exec prettier . --write 
+git add .
