@@ -58,7 +58,7 @@ contributions are always welcomed.
 
 ```javascript
 if (needHelp === true) {
-  var emailId = "bargirtufailahmed@gmail.com";
+  var emailId = "codewithevilxd@gmail.com";
   // email is the best way to reach out to me.
   sendEmail(emailId);
 }
